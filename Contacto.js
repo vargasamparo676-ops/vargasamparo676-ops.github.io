@@ -2987,7 +2987,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Carga la URL en una ventana nueva del navegador.
 		*/
-		window.open('Index.html', '_self');
+		window.open('index.html', '_self');
 		});
 		
 		
